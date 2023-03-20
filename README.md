@@ -22,3 +22,12 @@ Industry Standard Format for threat Intel:
 https://www.anomali.com/resources/what-are-stix-taxii
 
 https://oasis-open.github.io/cti-documentation/taxii/intro.html
+
+TRAM: THREAT REPORT ATT&CK MAPPER
+
+https://mitre-engenuity.org/blog/2021/09/30/threat-report-attck-mapper-tram/
+
+https://github.com/center-for-threat-informed-defense/tram 
+
+
+
