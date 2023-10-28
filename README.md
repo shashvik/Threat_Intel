@@ -1,5 +1,5 @@
 # Threat_Intel
-This repository has relavent information on Threat Intel Process/tools
+This repository has relavent information on Threat Intel Process/tools.
 
 Cyber threat intelligence is knowledge, skills and experience-based information concerning the occurrence and assessment of both cyber and physical threats and threat actors that is intended to help mitigate potential attacks and harmful events occurring in cyberspace.
 
